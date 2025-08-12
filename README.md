@@ -8,7 +8,7 @@
       <img width="340" src="https://github-readme-stats.vercel.app/api?username=ForgetK05&theme=aura_dark&show_icons=true" alt="GitHub Stats" style="border-radius: 16px; box-shadow: 0 2px 16px rgba(0,0,0,0.12);" />
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="48" alt="Languages" style="margin-bottom: 8px;" />
+      <img src="https://i.pinimg.com/736x/a8/0f/29/a80f29cca56f3961b0fb0280724fc3bb.jpg" width="48"  style="margin-bottom: 8px;" />
       <span style="font-size: 1.3rem; font-weight: bold; color: #eebbc3; letter-spacing: 1px;">Top Languages</span>
       <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&layout=compact&theme=aura_dark" alt="Top Languages" style="border-radius: 16px; box-shadow: 0 2px 16px rgba(0,0,0,0.12);" />
     </div>
