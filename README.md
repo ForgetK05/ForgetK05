@@ -37,6 +37,9 @@
   <a href="https://www.facebook.com/ken030375" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kien-dotrung-526601327" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:kiendt18102005@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <img src="https://i.pinimg.com/736x/51/7f/ad/517fad9f96becdde64d82ced78b04ddd.jpg"/>
+
 </div>
 
 <br>
