@@ -42,7 +42,7 @@
 <br>
 
 <h4 align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ForgetK05&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://i.pximg.net/img-master/img/2025/07/23/15/09/57/133021885_p0_master1200.jpg"/>
 </h4>
 
 <br>
