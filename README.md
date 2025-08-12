@@ -29,8 +29,6 @@
 
 <img height="48px" width="48px" alt="Matplotlib" src="https://logotic.me/system/assets/uploads/vector-files/matplotlib-icon-1669123416-logotic-brand.svg"/> <img height="48px" width="48px" alt="NumPy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg"/> <img height="48px" width="48px" alt="Pandas" src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png"/> <img height="48px" width="48px" alt="Scikit-learn" src="https://skillicons.dev/icons?i=sklearn"/>
 
-<img height="300px" width="300px" src="https://i.pinimg.com/736x/28/70/bf/2870bf2a7e203a0cf7750ccc6decb4e3.jpg"/>
-
 <br>
 
 ## Contact me:
