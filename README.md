@@ -42,7 +42,7 @@
 <br>
 
 <h4 align="center">
-  <img src="https://i.pximg.net/img-original/img/2025/07/23/15/09/57/133021885_p0.jpg"/>
+  <img src="https://i.pinimg.com/736x/51/7f/ad/517fad9f96becdde64d82ced78b04ddd.jpg"/>
 </h4>
 
 <br>
