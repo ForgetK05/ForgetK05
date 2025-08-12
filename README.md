@@ -1,6 +1,8 @@
-<div align="center" style="margin-bottom:200px">
-  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=ForgetK05&theme=aura_dark&show_icons=true" />
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&layout=compact&theme=aura_dark" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 24px; margin-bottom: 40px;">
+  <div style="background: #232946; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.15); padding: 24px 32px; display: flex; flex-direction: row; gap: 32px; align-items: center;">
+    <img width="320" src="https://github-readme-stats.vercel.app/api?username=ForgetK05&theme=aura_dark&show_icons=true" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
+    <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&layout=compact&theme=aura_dark" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
+  </div>
 </div>
 
 <br>
