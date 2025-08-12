@@ -16,8 +16,8 @@
 ### Data Science Libraries:
 
   <img height="48px" width="48px" alt="Matplotlib" src="https://logotic.me/system/assets/uploads/vector-files/matplotlib-icon-1669123416-logotic-brand.svg"/>
-  <img height="48px" width="48px" alt="NumPy" src="https://skillicons.dev/icons?i=numpy"/>
-  <img height="48px" width="48px" alt="Pandas" src="https://skillicons.dev/icons?i=pandas"/>
+  <img height="48px" width="48px" alt="NumPy" src="https://icon.icepanel.io/Technology/svg/NumPy.svg"/>
+  <img height="48px" width="48px" alt="Pandas" src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png"/>
   <img height="48px" width="48px" alt="Scikit-learn" src="https://skillicons.dev/icons?i=sklearn"/>
 
 <br>
