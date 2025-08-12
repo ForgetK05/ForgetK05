@@ -13,7 +13,7 @@
   <img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>
   <img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>
 
-### Data Science:
+### Data Science Libraries:
 
   <img height="48px" width="48px" alt="Matplotlib" src="https://skillicons.dev/icons?i=matplotlib"/>
   <img height="48px" width="48px" alt="NumPy" src="https://skillicons.dev/icons?i=numpy"/>
