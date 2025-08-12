@@ -1,7 +1,19 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 24px; margin-bottom: 40px;">
   <div style="background: #232946; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.15); padding: 24px 32px; display: flex; flex-direction: row; gap: 32px; align-items: center;">
-    <img width="320" src="https://github-readme-stats.vercel.app/api?username=ForgetK05&theme=aura_dark&show_icons=true" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
-    <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&layout=compact&theme=aura_dark" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
+<div align="center" style="margin-bottom: 48px;">
+  <div style="background: linear-gradient(135deg, #232946 60%, #5f6caf 100%); border-radius: 24px; box-shadow: 0 8px 32px rgba(0,0,0,0.18); padding: 32px 40px; display: inline-flex; flex-direction: row; gap: 40px; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" style="margin-bottom: 8px;" />
+      <span style="font-size: 1.3rem; font-weight: bold; color: #eebbc3; letter-spacing: 1px;">My GitHub Stats</span>
+      <img width="340" src="https://github-readme-stats.vercel.app/api?username=ForgetK05&theme=aura_dark&show_icons=true" alt="GitHub Stats" style="border-radius: 16px; box-shadow: 0 2px 16px rgba(0,0,0,0.12);" />
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="48" alt="Languages" style="margin-bottom: 8px;" />
+      <span style="font-size: 1.3rem; font-weight: bold; color: #eebbc3; letter-spacing: 1px;">Top Languages</span>
+      <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&layout=compact&theme=aura_dark" alt="Top Languages" style="border-radius: 16px; box-shadow: 0 2px 16px rgba(0,0,0,0.12);" />
+    </div>
+  </div>
+</div>
   </div>
 </div>
 
