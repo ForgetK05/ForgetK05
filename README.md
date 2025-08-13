@@ -1,20 +1,9 @@
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 24px; margin-bottom: 40px;">
-  <div style="background: #232946; border-radius: 16px; box-shadow: 0 4px 24px rgba(230, 65, 65, 0.15); padding: 24px 32px; display: flex; flex-direction: row; gap: 32px; align-items: center;">
-<div align="center" style="margin-bottom: 48px;">
-  <div style="background: linear-gradient(135deg, #f0e68cff 60%, #5f6caf 100%); border-radius: 24px; box-shadow: 0 8px 32px rgba(0,0,0,0.18); padding: 32px 40px; display: inline-flex; flex-direction: row; gap: 40px; align-items: center;">
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" style="margin-bottom: 8px;" />
-      <span style="font-size: 1.3rem; font-weight: bold; color: #61bbf8ff; letter-spacing: 1px;">My GitHub Stats</span>
-      <img width="340" src="https://github-readme-stats.vercel.app/api?username=ForgetK05&theme=aura_dark&show_icons=true" alt="GitHub Stats" style="border-radius: 16px; box-shadow: 0 2px 16px rgba(0,0,0,0.12);" />
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
-      <img src="https://i.pinimg.com/736x/a8/0f/29/a80f29cca56f3961b0fb0280724fc3bb.jpg" width="48"  style="margin-bottom: 8px;" />
-      <span style="font-size: 1.3rem; font-weight: bold; color: #61bbf8ff; letter-spacing: 1px;">Top Languages</span>
-      <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&layout=compact&theme=aura_dark" alt="Top Languages" style="border-radius: 16px; box-shadow: 0 2px 16px rgba(0,0,0,0.12);" />
-    </div>
-  </div>
-</div>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ForgetK05&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ForgetK05&amp;theme=dark&amp;hide_border=false">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact">
 </div>
 
 <br>
