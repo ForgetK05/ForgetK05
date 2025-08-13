@@ -1,11 +1,11 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ForgetK05&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=ForgetK05&amp;theme=nord&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false">
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ForgetK05&amp;theme=dark&amp;hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ForgetK05&amp;theme=nordk&amp;hide_border=false">
   <br/>
-  <img src="https://i.pinimg.com/736x/a8/0f/29/a80f29cca56f3961b0fb0280724fc3bb.jpg" width="60"  style="margin-bottom: 16px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact">
+  <img src="https://i.pinimg.com/736x/a8/0f/29/a80f29cca56f3961b0fb0280724fc3bb.jpg" width="60"  style="margin-bottom: 16px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgetK05&amp;theme=nord&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact">
 </div>
 
 <br>
